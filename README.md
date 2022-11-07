@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juyaber202" alt="juyaber202" /></a> </p>
 
-<p align="left"> <a href="https://www.facebook.com/jubayerahmedshawon14" target="blank"><img src="https://facebook/follow/jubayearahmed?logo=facebook&style=for-the-badge" alt="jubayearahmed" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/jubayearahmed" target="blank"><img src="https://img.shields.io/twitter/follow/jubayearahmed?logo=twitter&style=for-the-badge" alt="jubayearahmed" /></a> </p>
 
