@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juyaber202" alt="juyaber202" /></a> </p>
 
-<div id="facebook-embed">
-<!-- Facebook Badge START --><a href="https://www.facebook.com/jubayerahmedshawon14/" target="_TOP" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" title="Dustin Getz">Dustin Getz</a><br/><a href="https://www.facebook.com/jubayerahmedshawon14/" target="_TOP" title="Dustin Getz"><img src="http://badge.facebook.com/badge/6103645.1191.1673872666.png" width="120" height="335" style="border: 0px;" /></a><br/><a href="http://www.facebook.com/badges/" target="_TOP" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" title="Make your own badge!">Create Your Badge</a><!-- Facebook Badge END -->
-			</div><!-- end facebook-embed -->
+<p align="left"> <a href="https://www.facebook.com/jubayerahmedshawon14" target="blank"><img src="https://facebook/follow/jubayearahmed?logo=facebook&style=for-the-badge" alt="jubayearahmed" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/jubayearahmed" target="blank"><img src="https://img.shields.io/twitter/follow/jubayearahmed?logo=twitter&style=for-the-badge" alt="jubayearahmed" /></a> </p>
 
