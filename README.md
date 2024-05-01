@@ -107,7 +107,7 @@
 <img src="https://github-readme-stats-pvt.nakshatrasinghh.vercel.app/api?username=Jubayerahmed24&show_icons=true&theme=material-palenight&layout=compact&count_private=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jubayerahmed24&layout=compact&hide=jupyter%20notebook&theme=material-palenight"/>
   
-<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jubayerahmed24&layout=compact"/> -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jubayerahmed24&layout=compact"/>
 
   
 
